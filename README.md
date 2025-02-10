@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm mohamed adel</h1>
-<h3 align="center">I'm a passionate Software Engineer with experience in backend, frontend, and mobile development. I enjoy building scalable, efficient, and user-friendly applications.</h3>
-## 💫 About Me:
-🔭 I’m currently working on A Freelance Volunteer Portal project for Planetarium Science Center<br>👯 I’m looking to collaborate on Spring Boot & Java-based backend projects<br>📄 Know about my experiences <br><br>
+<h1 align="center">Hi 👋, I'm Mohamed Adel</h1>  
+<h3 align="center">A passionate Software Engineer with experience in backend, frontend, and mobile development. I enjoy building scalable, efficient, and user-friendly applications.</h3>  
+
+---
+
+## 💫 About Me  
+🔭 Currently working on a **Freelance Volunteer Portal** project for **Planetarium Science Center**  
+👯 Looking to collaborate on **Spring Boot & Java-based backend projects**  
+📄 Want to know more about my experience? Check out my [Cv](https://drive.google.com/file/d/1_j5-GuCVuAmmwXsO6xjMh8pyJ-shNE-I/view?usp=sharing)  
 
 
 ## 🌐 Socials:
